@@ -49,5 +49,5 @@ coverage/
 *.jpeg
 *.gif
 *.webp
-!Screenshot*.png
+!assets/Screenshot*.png
 !public/*.svg
